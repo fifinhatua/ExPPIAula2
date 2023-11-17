@@ -1,0 +1,30 @@
+{
+  "name": "nodejsvalidacao",
+  "version": "1.0.0",
+  "description": "formulario com validacao",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fifinhatua/FormularioEntrega.git"
+  },
+  "keywords": [
+    "node",
+    "aprender",
+    "ppi"
+  ],
+  "author": "rafael haddad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fifinhatua/FormularioEntrega/issues"
+  },
+  "homepage": "https://github.com/fifinhatua/FormularioEntrega#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "spress": "^0.1.2"
+  }
+}
